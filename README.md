@@ -2,7 +2,7 @@
 output: html_document
 ---
 # BgeeDB, an R package for retrieval of curated expression datasets and for gene list enrichment tests
-##### Andrea Komljenović, Julien Roux, Marc Robinson-Rechavi, Frédéric Bastian [F1000Research 2018, 5:2748](https://doi.org/10.12688/f1000research.9973.2)
+##### Andrea Komljenovic, Julien Roux, Marc Robinson-Rechavi, Frédéric Bastian [F1000Research 2018, 5:2748](https://doi.org/10.12688/f1000research.9973.2)
 
 
 ```BgeeDB``` is a collection of functions to import data from the Bgee database (<http://bgee.org/>) directly into R, and to facilitate downstream analyses, such as gene set enrichment test based on expression of genes in anatomical structures. Bgee provides annotated and processed expression data and expression calls from curated wild-type healthy samples, from human and many other animal species.
