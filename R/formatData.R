@@ -23,7 +23,7 @@
 #'
 #' @return If data was a list of data frames from multiple experiments, returns a list of ExpressionSet objects. If data was a data frame from a single experiment, returns an ExpressionSet object.
 #'
-#' @author Andrea Komljenovic and Julien Roux.
+#' @author Andrea Komljenovic 
 #'
 #' @examples{
 #'   bgee <- Bgee$new(species = "Mus_musculus", dataType = "rna_seq")
