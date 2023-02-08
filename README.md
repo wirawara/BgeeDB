@@ -18,8 +18,10 @@ In summary, the BgeeDB package allows to:
 
 In R:
 ``` {r}
-source("https://bioconductor.org/biocLite.R")
-biocLite("BgeeDB")
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("BgeeDB")
 ```
 
 ## How to use BgeeDB package
