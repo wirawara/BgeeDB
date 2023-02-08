@@ -8,7 +8,7 @@
 #'
 #' @return If experimentId is not specified, returns a list of data frames with data from all experiments for targeted species and data type. If experimentId is specified, returns a data frame with data from this experiment.
 #'
-#' @author Andrea Komljenovic and Julien Roux.
+#' @author Andrea Komljenovic 
 #'
 #' @examples{
 #'   bgee <- Bgee$new(species = "Mus_musculus", dataType = "rna_seq")
