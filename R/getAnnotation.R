@@ -6,7 +6,7 @@
 
 #' @return A list of two elements, including a data frame of the annotation of experiments for chosen species (field "experiment.annotation") and a data frame of the annotation of chips/libraries from these experiments (field "sample.annotation").
 #'
-#' @author Andrea Komljenovic and Julien Roux.
+#' @author Andrea Komljenovic 
 #'
 #' @examples{
 #'   bgee <- Bgee$new(species = "Mus_musculus", dataType = "rna_seq")
