@@ -20,7 +20,7 @@
 #'  listBgeeSpecies(ordering = 1)
 #' }
 #'
-#' @author Julien Roux
+#' @author 
 #' @export
 
 listBgeeSpecies <- function(release=NULL, ordering=NULL, allReleases=NULL, removeFile=TRUE){
