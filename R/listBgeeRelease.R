@@ -10,7 +10,7 @@
 #'  listBgeeRelease()
 #' }
 #'
-#' @author Julien Roux
+#' @author
 #' @export
 
 # Function displaying the user a data frame describing all releases available for Bgee
